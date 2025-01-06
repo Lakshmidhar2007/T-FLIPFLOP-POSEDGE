@@ -39,7 +39,7 @@ From the above characteristic table, we can directly write the next state equati
 
 **PROGRAM**
 
-## Developed by: LAKSHMIDHAR N; RegisterNumber: 24900046
+## Developed by: LAKSHMIDHAR N; RegisterNumber: 212224230138
     module exp9(T,clk,Q,Qbar);
     
     input T,clk;
